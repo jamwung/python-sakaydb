@@ -6,7 +6,7 @@ location_id,loc_name
 5,Loyola Heights
 6,Pasong Putik
 7,San Antonio
-8,Carpenter
+8,Clementi
 9,Macpherson
 10,Luster
 11,Banding
@@ -18,7 +18,7 @@ location_id,loc_name
 17,Eggendart
 18,Grasskamp
 19,Main
-20,Clyde Gallagher
+20,Wakanda
 21,Carpenter
 22,Arrowood
 23,Waubesa
@@ -49,5 +49,3 @@ location_id,loc_name
 48,International
 49,Ryan
 50,Pawling
-
-
